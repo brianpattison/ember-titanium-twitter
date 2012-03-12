@@ -1,0 +1,3 @@
+[submodule "Resources/lib/em_ti"]
+	path = Resources/lib/em_ti
+	url = git://github.com/brianpattison/ember-titanium-submodule.git
