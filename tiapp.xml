@@ -9,7 +9,7 @@
     </deployment-targets>
     <sdk-version>1.8.1</sdk-version>
     <id>com.brianpattison.embertitaniumtwitter</id>
-    <name>drinkfm-app</name>
+    <name>EmTi Twitter</name>
     <version>1.0</version>
     <publisher>Brian Pattison</publisher>
     <url>http://brianpattison.com</url>
